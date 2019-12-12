@@ -1,0 +1,14 @@
+[12/Dec/2019:00:23:29] (ℹ️): WordPress Instance Info:
+[12/Dec/2019:00:23:29] (ℹ️): Home URL : http://localhost/testing123
+[12/Dec/2019:00:23:29] (ℹ️): Site URL : http://localhost/testing123
+[12/Dec/2019:00:23:29] (ℹ️): WordPress Version : 5.3
+[12/Dec/2019:00:23:29] (ℹ️): Onboarding Version : 1.7.10
+[12/Dec/2019:00:23:29] (ℹ️): Multisite : No
+[12/Dec/2019:00:23:29] (ℹ️): Server Info : Apache/2.4.39 (Win64) PHP/7.2.18
+[12/Dec/2019:00:23:29] (ℹ️): PHP Version : 7.2.18
+[12/Dec/2019:00:23:29] (ℹ️): HTTPS : No
+[12/Dec/2019:00:23:29] (ℹ️): PHP Max Execution Time : 120
+[12/Dec/2019:00:23:29] (ℹ️): PHP Max Input Vars : 2500
+[12/Dec/2019:00:23:29] (ℹ️): Max Upload Size : 2097152
+[12/Dec/2019:00:23:29] (ℹ️): Plugins:
+[12/Dec/2019:00:23:29] (ℹ️): [PLUGIN] Simply Static : v2.1.0 (Code of Conduct LLC)
